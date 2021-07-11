@@ -28,7 +28,7 @@ Top 5 Players:
 ![Luffy](https://media.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif)
 
 
-Top 5:
+Top 5 Series:
 - [Zatch Bell!](https://www.youtube.com/watch?v=3d9UI0klNBw)
 - [Land of the Lustrous](https://www.youtube.com/watch?v=yRomdkpNyIs)
 - [Dr. Stone](https://www.youtube.com/watch?v=9oTIuknrMB4)
