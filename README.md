@@ -25,7 +25,7 @@ Top 5 Players:
 
 ## Manga fan
 
-![Luffy](https://media.giphy.com/media/rNRSXA8VDzepS4LNlb/giphy.gif)
+![Luffy](https://media.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif)
 
 
 Top 5:
