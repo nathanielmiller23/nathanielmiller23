@@ -18,10 +18,10 @@ Team: Boston Celtics 🍀
 
 Top 5 Players:
 - Chris Paul ☀️
-- LeBron James 👑
-- Rajon Rondo 🍀
-- Paul Pierce 🍀
-- Tracy McGrady 🚀
+- [LeBron James 👑](https://www.youtube.com/watch?v=b4fnnKF1Axg&t=67s)
+- [Rajon Rondo 🍀](https://www.youtube.com/watch?v=2cHjrzZqBi4)
+- [Paul Pierce 🍀](https://www.youtube.com/watch?v=DZhCU6dncrA)
+- [Tracy McGrady 🚀](https://www.youtube.com/watch?v=Wfq_6V-VG1M)
 
 ## Manga fan
 
