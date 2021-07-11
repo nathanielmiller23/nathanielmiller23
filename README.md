@@ -25,6 +25,8 @@ Ultimately, I would like to share what I have learned with a team and work to cr
 
 - Email: millernathaniel2000@gmail.com
 - [LinkedIn Account](https://www.linkedin.com/in/nathanielmiller23/)
+- [Portfolio Website](https://nathanielmiller23.github.io/)
+- [Personal Blog](https://manga-guy.com/)
 
 
 
