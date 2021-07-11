@@ -16,7 +16,7 @@ My interests include:
 
 Ultimately, I would like to share what I have learned with a team and work to create software that works and works well.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielmiller23)](https://github.com/anuraghazra/github-readme-stats) ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nathanielmiller23&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=nathanielmiller23&count_private=true&show_icons=true&hide=contribs) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielmiller23)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
