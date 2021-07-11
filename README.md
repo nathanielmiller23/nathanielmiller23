@@ -15,7 +15,8 @@ Interests:
 ![Lebron James](https://media.giphy.com/media/YEHBdmWgc0Ys0nJVWN/giphy.gif)
 
 Team: Boston Celtics 🍀
-Top 5:
+
+Top 5 Players:
 - Chris Paul ☀️
 - LeBron James 👑
 - Rajon Rondo 🍀
