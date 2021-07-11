@@ -12,7 +12,7 @@ Interests:
 
 *NBA Basketball fan 🏀
 
-[Lebron James](https://imgur.com/a/3mf2KIo)
+[Lebron James](https://media.giphy.com/media/YEHBdmWgc0Ys0nJVWN/giphy.gif)
 
 Team: Boston Celtics 🍀
 Top 5:
