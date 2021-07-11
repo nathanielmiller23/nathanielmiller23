@@ -17,7 +17,7 @@ Interests:
 Team: Boston Celtics 🍀
 
 Top 5 Players:
-- Chris Paul ☀️
+- [Chris Paul ☀️](https://www.youtube.com/watch?v=ZKY0SVJ-KSI)
 - [LeBron James 👑](https://www.youtube.com/watch?v=b4fnnKF1Axg&t=67s)
 - [Rajon Rondo 🍀](https://www.youtube.com/watch?v=2cHjrzZqBi4)
 - [Paul Pierce 🍀](https://www.youtube.com/watch?v=DZhCU6dncrA)
