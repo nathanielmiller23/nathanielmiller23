@@ -6,11 +6,11 @@ ATM: I am honing my C++ skills and working on a new project that will involve NB
 
 I'd like to work with cool new applications, fintech, distributed systems and blockchain technology. Honestly though, I am down for whatever because I enjoy programming and Computer Science as a whole. When I am not stuck on one line of code for 2 hours its pretty fun.
 
-Anyway, thats me. Have a good one.
+
 
 Interests:
 
-*NBA Basketball fan 🏀
+##NBA Basketball fan 🏀
 
 ![Lebron James](https://media.giphy.com/media/YEHBdmWgc0Ys0nJVWN/giphy.gif)
 
@@ -22,7 +22,7 @@ Top 5:
 - Paul Pierce 🍀
 - Tracy McGrady 🚀
 
-*Manga
+##Manga
 Top 5:
 - Zatch Bell!
 - Tokyo Ghoul
