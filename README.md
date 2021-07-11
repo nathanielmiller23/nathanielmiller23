@@ -41,5 +41,5 @@ Top 5 Series:
 ## Im available at:
 
 - Email: millernathaniel2000@gmail.com
-- LinkedIn Account
+- [LinkedIn Account](https://www.linkedin.com/in/nathanielmiller23/)
 
