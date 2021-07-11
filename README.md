@@ -8,9 +8,12 @@ I'd like to work with cool new applications, fintech, distributed systems and bl
 
 Anyway, thats me. Have a good one.
 
-###Interests:
+Interests:
 
 *NBA Basketball fan 🏀
+
+[Lebron James](https://imgur.com/a/3mf2KIo)
+
 Team: Boston Celtics 🍀
 Top 5:
 - Chris Paul ☀️
@@ -19,7 +22,11 @@ Top 5:
 - Paul Pierce 🍀
 - Tracy McGrady 🚀
 
-
+*Manga
+Top 5:
+- Zatch Bell!
+- Tokyo Ghoul
+- 
 
 
 
