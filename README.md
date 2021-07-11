@@ -23,16 +23,16 @@ Top 5 Players:
 - [Paul Pierce 🍀](https://www.youtube.com/watch?v=DZhCU6dncrA)
 - [Tracy McGrady 🚀](https://www.youtube.com/watch?v=Wfq_6V-VG1M)
 
-## Manga fan
+## Anime/Manga fan
 
 ![Luffy](https://media.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif)
 
 
 Top 5:
-- Zatch Bell!
+- [Zatch Bell!](https://www.youtube.com/watch?v=3d9UI0klNBw)
 - Tokyo Ghoul
 - Dr. Stone
-- One Piece
+- [One Piece](https://www.youtube.com/watch?v=MRsF_sYg45g)
 - Deadman Wonderland
 
 
