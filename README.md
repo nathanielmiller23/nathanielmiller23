@@ -30,10 +30,10 @@ Top 5 Players:
 
 Top 5:
 - [Zatch Bell!](https://www.youtube.com/watch?v=3d9UI0klNBw)
-- Tokyo Ghoul
-- Dr. Stone
+- [Land of the Lustrous](https://www.youtube.com/watch?v=yRomdkpNyIs)
+- [Dr. Stone](https://www.youtube.com/watch?v=9oTIuknrMB4)
 - [One Piece](https://www.youtube.com/watch?v=MRsF_sYg45g)
-- Deadman Wonderland
+- [Steins;Gate](https://www.youtube.com/watch?v=-pc4Wfh4WNw)
 
 
 
