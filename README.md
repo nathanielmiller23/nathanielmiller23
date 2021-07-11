@@ -17,6 +17,14 @@ My interests include:
 Ultimately, I would like to share what I have learned with a team and work to create software that works and works well.
 
 
+
+## Im available at:
+
+- Email: millernathaniel2000@gmail.com
+- [LinkedIn Account](https://www.linkedin.com/in/nathanielmiller23/)
+
+
+
 ## NBA Basketball fan 🏀
 
 ![Lebron James](https://media.giphy.com/media/YEHBdmWgc0Ys0nJVWN/giphy.gif)
@@ -41,12 +49,3 @@ Top 5 Series:
 - [Dr. Stone](https://www.youtube.com/watch?v=9oTIuknrMB4)
 - [One Piece](https://www.youtube.com/watch?v=MRsF_sYg45g)
 - [Steins;Gate](https://www.youtube.com/watch?v=-pc4Wfh4WNw)
-
-
-
-
-## Im available at:
-
-- Email: millernathaniel2000@gmail.com
-- [LinkedIn Account](https://www.linkedin.com/in/nathanielmiller23/)
-
