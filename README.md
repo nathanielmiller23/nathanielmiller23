@@ -22,11 +22,16 @@ Top 5:
 - Paul Pierce 🍀
 - Tracy McGrady 🚀
 
-## Manga
+## Manga fan
+
+![Luffy](https://media.giphy.com/media/rNRSXA8VDzepS4LNlb/giphy.gif)
+
 Top 5:
 - Zatch Bell!
 - Tokyo Ghoul
-- 
+- Dr. Stone
+- One Piece
+- Deadman Wonderland
 
 
 
