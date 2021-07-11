@@ -38,4 +38,8 @@ Top 5 Series:
 
 
 
-Im available on Discord at: milly#6496
+## Im available at:
+
+- Email: millernathaniel2000@gmail.com
+- LinkedIn Account
+
