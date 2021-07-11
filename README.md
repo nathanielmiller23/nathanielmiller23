@@ -3,10 +3,19 @@
 
 Hey there. I'm a CS student at UCF in Orlando, Florida. I'm passionate about science, whether it be Computer Science or otherwise. 
 
+I'm currently looking at a career in software engineering and I have a wide range of interests.
 
+My interests include:
 
+- Distributed Systems
+- Data Engineering
+- Bioinformatics
+- VR/AR
+- Embedded Systems
+- and anything else I come across that I find exciting
 
-Interests:
+Ultimately, I would like to share what I have learned with a team and work to create software that works and works well.
+
 
 ## NBA Basketball fan 🏀
 
