@@ -1,4 +1,4 @@
-#I’m @nathanielmiller23. I’m a Computer Science student at UCF.
+# I’m @nathanielmiller23. I’m a Computer Science student at UCF.
 
 
 
@@ -10,7 +10,7 @@ I'd like to work with cool new applications, fintech, distributed systems and bl
 
 Interests:
 
-##NBA Basketball fan 🏀
+## NBA Basketball fan 🏀
 
 ![Lebron James](https://media.giphy.com/media/YEHBdmWgc0Ys0nJVWN/giphy.gif)
 
@@ -22,7 +22,7 @@ Top 5:
 - Paul Pierce 🍀
 - Tracy McGrady 🚀
 
-##Manga
+## Manga
 Top 5:
 - Zatch Bell!
 - Tokyo Ghoul
