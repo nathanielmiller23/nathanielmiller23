@@ -1,7 +1,7 @@
-# I’m @nathanielmiller23. I’m a Computer Science student at UCF.
+# I’m @nathanielmiller23. I’m a student at UCF.
 
 
-Hey there. I'm a CS student at UCF in Orlando, Florida. I'm passionate about science, whether it be Computer Science or otherwise. 
+Hey there. I'm a student at UCF in Orlando, Florida. I'm passionate about science, whether it be Computer Science or otherwise. 
 
 I'm currently looking at a career in software engineering and I have a wide range of interests.
 
