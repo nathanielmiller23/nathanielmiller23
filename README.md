@@ -8,10 +8,10 @@ I'm currently looking at a career in software engineering and I have a wide rang
 My interests include:
 
 - Distributed Systems
-- Data Engineering
+- Streaming Video
 - Bioinformatics
 - VR/AR
-- Embedded Systems
+- Blockchain
 - and anything else I come across that I find exciting
 
 Ultimately, I would like to share what I have learned with a team and work to create software that works and works well.
