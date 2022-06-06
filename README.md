@@ -2,9 +2,13 @@
 
 I am a man of many interests.
 
-I love sports (my favorite player rn is Lamelo Ball)
+**I love sports**
 
 ![](https://media1.giphy.com/media/kqSQe5YcRfuOqznkEE/giphy.gif)
+
+**I'm a big manga fan, with One Piece being my favorite**
+
+![](https://media4.giphy.com/media/rNRSXA8VDzepS4LNlb/giphy.gif)
 
 
 
