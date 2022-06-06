@@ -8,7 +8,7 @@ I am a man of many interests.
 
 **I'm a big manga fan, with One Piece being my favorite**
 
-![]([https://media4.giphy.com/media/rNRSXA8VDzepS4LNlb/giphy.gif](https://media1.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif))
+![](https://media1.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif)
 
 
 
