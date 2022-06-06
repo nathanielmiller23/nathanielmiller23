@@ -2,6 +2,8 @@
 
 Technically, I'm currently interested in **Backend Technologies**
 
+I enjoy working with: Python, Java, AWS, Databases, etc.
+
 
 
 
