@@ -36,5 +36,7 @@ My Links:
 
 [Personal Blog](https://manga-guy.com/) (random thoughts go here)
 
+Email: millernathaniel2000@gmail.com
+
 
 
