@@ -1,9 +1,6 @@
 # I’m @nathanielmiller23. I’m a budding technologist on the quest to be great.
 
-Technically, I'm currently interested in **Backend Technologies** like:
-
-![](https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47bpi0ak6cd5fleqwu6s0z0l3h5wnjvqfk8yszqp2v&rid=giphy.gif&ct=g)
-
+Technically, I'm currently interested in **Backend Technologies**
 
 
 
@@ -18,7 +15,9 @@ I am a man of many interests.
 
 ![](https://media1.giphy.com/media/Au5ce43SWksf1zU6id/giphy.gif)
 
+**I love watching movies**
 
+![](https://media2.giphy.com/media/GTabKEhWhTaX4r5un6/giphy.gif)
 
 
 
