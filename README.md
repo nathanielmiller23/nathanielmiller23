@@ -2,5 +2,6 @@
 
 My Links:
 
-[LinkedIn](https://www.linkedin.com/in/nathanielmiller23/)
-[Personal Blog](https://manga-guy.com/)
+[LinkedIn](https://www.linkedin.com/in/nathanielmiller23/) (strictly business!)
+
+[Personal Blog](https://manga-guy.com/) (random thoughts go here)
