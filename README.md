@@ -1,6 +1,6 @@
 # I’m @nathanielmiller23. I’m a budding technologist on the quest to be great.
 
-Technically, I'm currently interested in **Backend Technologies**
+Technically, I'm currently interested in: **makin it happen**
 
 I enjoy working with: Python, Java, AWS, Databases, etc.
 
