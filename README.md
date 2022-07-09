@@ -2,11 +2,6 @@
 
 Technically, I'm currently interested in: **makin it happen**
 
-I enjoy working with: Python, Java, AWS, Databases, etc.
-
-
-
-
 I am a man of many interests.
 
 **I love sports**
