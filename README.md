@@ -12,4 +12,6 @@
 
 # Languages of Choice
 
-![img](https://imgur.com/CrLRGZ6)
+![]([https://imgur.com/CrLRGZ6](https://github.com/nathanielmiller23/nathanielmiller23/blob/main/Java_programming_language_logo.svg.png))
+
+
