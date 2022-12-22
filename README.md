@@ -1,4 +1,4 @@
-# driven technical professional
+# Driven technical professional
 
 ## Interests
 
