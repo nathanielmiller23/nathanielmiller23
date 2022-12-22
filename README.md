@@ -12,6 +12,4 @@
 
 # Languages of Choice
 
-![](https://imgur.com/CrLRGZ6)
-
-
+![img](https://imgur.com/CrLRGZ6)
