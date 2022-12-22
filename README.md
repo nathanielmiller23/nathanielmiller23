@@ -12,14 +12,16 @@
 
 # Languages of Choice
 
-## Python
+- Python
 
-## C++
+- C++
 
-## Java
+- Java
 
 # Contact Information
 
 Email: natemillertech@gmail.com
+
+Linkedin: https://www.linkedin.com/in/nathanielmiller23/
 
 
