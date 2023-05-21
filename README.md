@@ -19,7 +19,9 @@ Currently, I am expanding my skillset by learning Kotlin, a modern programming l
 
 ## Recent Projects
 
-**WORK IN PROGRESS**
+[Crab Stocks: Using Rust to get stock prices!](https://github.com/nathanielmiller23/crab-stocks)
+
+[Streamlit application to explore NBA data](https://github.com/nathanielmiller23/nba-data-exploration)
 
 Feel free to explore my repositories to learn more about my work and projects!
 
