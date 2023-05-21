@@ -34,3 +34,5 @@ Let's connect and collaborate on exciting projects!
 
 [Landing Page](https://landing-page-10h6ivc48-nathanielmiller23.vercel.app/) (WIP) (Need to add more fun content to the page)
 
+[Personal Blog](https://www.manga-guy.net/)
+
