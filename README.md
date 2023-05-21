@@ -10,7 +10,7 @@ Currently, I am expanding my skillset by learning Kotlin, a modern programming l
 
 ## Tech Stack
 
-- Programming Languages: Java, Python, C
+- Programming Languages: Java, Python, C, JavaScript
 - Data Engineering: Apache Kafka, SQL
 - Backend Development: RESTful APIs, Microservices
 - Cloud Technologies: AWS (Amazon Web Services)
