@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate software developer proficient in Java, Python, and C. I specialize in data engineering and backend development, with a strong focus on leveraging AWS services for building scalable and efficient solutions. I have experience working with things like Apache Kafka, SQL, Streamlit, Apache Spark and other technologies.
+I am a passionate software developer proficient in Java, Python, C and other languages. I am very interested in data engineering and backend development, with a focus on leveraging AWS services for building scalable and efficient solutions. I have experience working with things like Apache Kafka, SQL, Streamlit, Apache Spark and other technologies.
 
 Currently, I am expanding my skillset by learning Kotlin, a modern programming language for building robust and concise applications. Additionally, I am exploring Figma, a powerful design and prototyping tool, to enhance my UI/UX skills.
 
