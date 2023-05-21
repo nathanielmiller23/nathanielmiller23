@@ -32,6 +32,6 @@ Feel free to explore my repositories to learn more about my work and projects!
 
 Let's connect and collaborate on exciting projects!
 
-[Landing Page]([https://landing-page-10h6ivc48-nathanielmiller23.vercel.app/](https://windy-crabapple-bd0.notion.site/Hey-there-I-m-Nathaniel-Miller-54f813bc49c640ea96fa2316bbb518c5)) 
+[Landing Page](https://windy-crabapple-bd0.notion.site/Hey-there-I-m-Nathaniel-Miller-54f813bc49c640ea96fa2316bbb518c5)
 [Personal Blog](https://www.manga-guy.net/)
 
