@@ -32,5 +32,5 @@ Feel free to explore my repositories to learn more about my work and projects!
 
 Let's connect and collaborate on exciting projects!
 
-[Landing Page](https://landing-page-10h6ivc48-nathanielmiller23.vercel.app/) (WIP)
+[Landing Page](https://landing-page-10h6ivc48-nathanielmiller23.vercel.app/) (WIP) (Need to add more fun content to the page)
 
