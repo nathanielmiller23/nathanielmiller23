@@ -8,9 +8,9 @@ I am a passionate software developer proficient in Java, Python, C and other lan
 
 Currently, I am expanding my skillset by learning Kotlin, a modern programming language for building robust and concise applications. Additionally, I am exploring Figma, a powerful design and prototyping tool, to enhance my UI/UX skills.
 
-## Tech Stack
+## Preferred Tech Stack
 
-- Programming Languages: Java, Python, C, JavaScript
+- Favorite Programming Languages: Java, Python, C, JavaScript
 - Data Engineering: Apache Kafka, SQL
 - Backend Development: RESTful APIs, Microservices
 - Cloud Technologies: AWS (Amazon Web Services)
