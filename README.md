@@ -1,4 +1,14 @@
-## Hi there 👋
+# About Me
+
+1. I'm the creator of [Manga Guy](https://github.com/manga-guy)
+2. I am a huge fan of the Boston Celtics
+3. Here is my [blog](https://mg2-0.vercel.app/) (Mostly rants on literature or manga or sports)
+
+In any case, thank you for visiting my GitHub.
+
+# Goal
+
+I'm chasing novel learning experiences. Onward and upward.
 
 <!--
 **nathanielmiller23/nathanielmiller23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
