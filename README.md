@@ -2,7 +2,7 @@
 
 1. I'm the creator of [Manga Guy](https://www.manga-guy.net/)
 2. I am a huge fan of the Boston Celtics
-3. Here is my [blog](https://mg2-0.vercel.app/) (Mostly rants on literature or manga or sports)
+3. Here is my [blog](manga-guy.net) (Mostly rants on literature or manga or sports)
 
 In any case, thank you for visiting my GitHub.
 
