@@ -1,6 +1,6 @@
 # About Me
 
-read: manga-guy.net
+
 
 <!--
 **nathanielmiller23/nathanielmiller23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
